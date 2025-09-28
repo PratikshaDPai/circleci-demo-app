@@ -20,3 +20,6 @@ When you open index.html in a browser, you'll see:
 	- A hidden paragraph ("Hello from CircleCI!")
 
 Clicking the button reveals the hidden text.
+
+<img width="1892" height="1253" alt="image" src="https://github.com/user-attachments/assets/1fd883dc-241c-4f7c-af35-9a6395faa075" />
+
