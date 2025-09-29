@@ -1,7 +1,7 @@
 ## CircleCI Demo App – Support Engineer Take Home Assessment
 
 
-This is a simple web application and CircleCI pipeline created as part of the Support Engineer take-home assessment.
+This is a simple web application and CircleCI pipeline.
 
 The project demonstrates the following skills:
 
