@@ -1,4 +1,4 @@
-## CircleCI Demo App – Support Engineer Take Home Assessment
+## CircleCI Demo App
 
 
 This is a simple web application and CircleCI pipeline.
